@@ -48,6 +48,6 @@ I have organized my technical stack by category:
 ### 🤝 Let's Connect
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="linkedin" height="30"/></a>
+<a href="https://www.linkedin.com/in/amine-hsain-22543634a/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="linkedin" height="30"/></a>
 <a href="mailto:aminehsain313@gmail.com"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="30"/></a>
 </p>
