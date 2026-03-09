@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Data Analysis and Fullstack Development projects.**
 - 🌱 I’m currently learning **Advanced Deep Learning and Cloud Architecture.**
-- 👯 I’m looking to collaborate on **Open Source projects in Python or JavaScript.**
+- 👯 I’m looking to collaborate on **Open Source projects.**
 - 📫 How to reach me: **aminehsain313@gmail.com**
 
 ---
