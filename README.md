@@ -15,6 +15,7 @@
 
 - 🔭 I’m currently working on **Data Analysis and Fullstack Development projects.**
 - 🌱 I’m currently learning **Advanced Deep Learning and Cloud Architecture.**
+- 🏆 I’m active in **Competitive Programming** on Codeforces.
 - 👯 I’m looking to collaborate on **Open Source projects.**
 - 📫 How to reach me: **aminehsain313@gmail.com**
 
@@ -34,6 +35,16 @@ I have organized my technical stack by category:
 
 ---
 
+### 🏆 Competitive Programming
+
+<p align="left">
+  <a href="https://codeforces.com/profile/Fuzer003" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Fuzer003-1f8acb?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Profile" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -49,5 +60,6 @@ I have organized my technical stack by category:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/amine-hsain-22543634a/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="linkedin" height="30"/></a>
+<a href="https://codeforces.com/profile/Fuzer003" target="blank"><img align="center" src="https://img.shields.io/badge/-Codeforces-1f8acb?style=for-the-badge&logo=Codeforces&logoColor=white" alt="codeforces" height="30"/></a>
 <a href="mailto:aminehsain313@gmail.com"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="30"/></a>
 </p>
