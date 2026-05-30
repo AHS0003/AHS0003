@@ -38,7 +38,7 @@ I have organized my technical stack by category:
 ### 🏆 Competitive Programming
 
 <p align="left">
-  <a href="https://codeforces.com/profile/Fuzer003" target="_blank">
+  <a href="https://codeforces.com/profile/johan003" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-Fuzer003-1f8acb?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Profile" />
   </a>
 </p>
